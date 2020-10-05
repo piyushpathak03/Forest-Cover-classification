@@ -1,9 +1,9 @@
-![Alt Text](https://github.com/piyushpathak03/Forest-Cover-classification/tree/main/templates/cov2f.jpg)
+![Alt Text](https://github.com/piyushpathak03/Forest-Cover-classification/blob/main/templates/cov2f.jpg)
 
 #  FOREST COVER CLASSIFICATION
 <br>
 
-![Alt Text](https://github.com/piyushpathak03/Forest-Cover-classification/tree/main/templates/depphoto.png)
+![Alt Text](https://github.com/piyushpathak03/Forest-Cover-classification/blob/main/templates/depphoto.png)
 
 <br>
 Heroku App :- https://forestcoverclassificationapp.herokuapp.com/

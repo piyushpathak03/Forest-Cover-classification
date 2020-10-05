@@ -1,9 +1,9 @@
-![Alt Text](https://github.com/DheerajKumar97/Forest-Cover-Classification-Flask--Deployment-Heroku/blob/master/templates/cov2f.jpg)
+![Alt Text](https://github.com/piyushpathak03/Forest-Cover-classification/tree/main/templates/cov2f.jpg)
 
 #  FOREST COVER CLASSIFICATION
 <br>
 
-![Alt Text](https://github.com/DheerajKumar97/Forest-Cover-Classification-Flask--Deployment-Heroku/blob/master/templates/depphoto.png)
+![Alt Text](https://github.com/piyushpathak03/Forest-Cover-classification/tree/main/templates/depphoto.png)
 
 <br>
 Heroku App :- https://forestcoverclassificationapp.herokuapp.com/
@@ -18,8 +18,8 @@ Heroku App :- https://forestcoverclassificationapp.herokuapp.com/
 
 # PROJECT GOAL
 
-#### This project is designed to predict the FOREST COVER CLASSIFICATION using Classification Analysis with Python, FLASK, HTML, SQL 
-#### A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation has been implemented.
+ This project is designed to predict the FOREST COVER CLASSIFICATION using Classification Analysis with Python, FLASK, HTML, SQL 
+ A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation has been implemented.
 
 # Project Motivation
 

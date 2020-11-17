@@ -39,7 +39,7 @@ Heroku App :- https://forestcoverclassificationapp.herokuapp.com/
 
 2- Data preparation: **Feature Engineering and Scaling**
 
-3- Feature Engineering: **Make Features usefull to model data**
+3- Feature Engineering: **Make Features usefull for modeling**
 
 4- Feature Selection using **RFE and Model Building**
 

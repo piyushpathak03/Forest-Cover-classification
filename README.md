@@ -34,7 +34,7 @@ Heroku App :- https://forestcoverclassificationapp.herokuapp.com/
 # File Section
 
 
-### In Forest Cover Classification.py
+### In Forest Cover Classification.py FIle
 1- EXporatory Data Analysis: **Distribution,Outliers,POsitive Count,Negative Count,Zero Variance Variable**
 
 2- Data preparation: **Feature Engineering and Scaling**
